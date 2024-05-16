@@ -18,7 +18,3 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 =======
-# CacauLote_Blockchain
-Blockchain utilizado para indicação geográfica do projeto CacauLote
->>>>>>> 02fb2a57d31d291acc4f9b7716eeb27e6a52434b
-# CacauLote_Blockchain
